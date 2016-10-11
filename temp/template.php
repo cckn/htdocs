@@ -10,7 +10,7 @@
 
   </script>
 
-  <h2>PHP</h2>
+  <h1>PHP</h1>
   <?php
 
   ?>

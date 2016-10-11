@@ -1,3 +1,13 @@
+body.black{
+  background: black;
+  color: white;
+}
+
+body.white{
+  background: white;
+  color: black;
+}
+
 header{
   border-bottom: 2px gray solid;
   padding: 20px;
@@ -16,6 +26,7 @@ article{
 nav ol{
   list-style: circle;
 }
-h2{
-  font-size: 30px;
+
+#control{
+  float: right;
 }
